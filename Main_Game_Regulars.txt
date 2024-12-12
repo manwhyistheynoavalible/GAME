@@ -1,0 +1,23 @@
+GLitches --
+
+Block launch GLitch
+    this glitch is caused by mario being stuck inside of a block and not being able to escape due to a tree or another unenterable (there are objects that mario cannot go into while in a clipped state) object being in the way, so as mario is stuck in the block, assuming he is also facing backwards for 3 seconds mario can build up speed and after the tree goes away from realizing its blocking mario, mario will be launched at the speed he had stored.
+
+    the reason this glitch happens is because there is no hard cap on marios backwards speed and while mario is in a block, the game always thinks mario is on the ground allowing the player to jump and gain the jump speed boost, afterwards the game trys to push mario out at the regular speed, but due to marios insanly high speed, the game reads mario backwards speed as the ejection speed, with a frame-perfect jump, mario can lauch himself 100's of blocks.
+
+Flagpole glitch
+    this glitch is cause by mario going too deep into a Flagpole, confusing the game, the game then attempts to push mario out of the flag pole to the right, though it only causes mario to go into contact with the flagpole, and since mario is too deep in the flag pole to pull him down it skips both the mario down animation and the flag down animation
+
+    the reason this glitch happens is because if mario has a well-timed jump, then mario can successfully go 2 pixils into the flagpole causeing mario to be classified as inside of the flagpole block, then pushing mario to the right and then colliding with the flagpole, causing the level end to occur, afterwards, since mario is inside the flagpole box, usally only possible after the flagpole cutscene, mario then causes a internal flag to occur, causing the flagpole cutscene to be skipped.
+
+Devils Spell glitch
+    this glitch occurs when mario shoves himself into a pipe, causing mario to go inside of the pipe, though this only happens in smb2 jp 
+
+    the reason this glitch occurs is because when mario is somewhat in a block there is a 1 frame moment where mario can jump and then reapetably jump over and over and over again, and because the game trys to push mario out of the pipe opposite the way he is facing, and if you hold down the right button, then when mario jumps, the game automaticly pushes mario in the oppositedirection he is facing, so when he is facing right, then the program push mario left, eventually pushing him in.
+
+Death Jump
+
+    this is not a glitch, but rather a feature, in the game if yo get a koopa shell exactly 4 block down in a pit then you can jump on the koopa and go in the ground block.
+
+    thid is because in the game, the hitbox for the tiles dont detect collisions underneath it, allowing for free movement under it, and by positioning the koopa shell at the exact location, then you can jump on it an go in the ground
+
